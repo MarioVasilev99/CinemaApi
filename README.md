@@ -1,7 +1,8 @@
 # CinemaApi
 CinemaApi Ultraplay Interview Task
 
-Endpoints:
+                        Endpoints:
+
 Projection Creation - POST - http://localhost:50593/api/projection
 
 Get Available Seats - GET - http://localhost:50593/api/projection/seats/{projectionId}
